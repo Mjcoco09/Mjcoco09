@@ -7,7 +7,6 @@ Full-stack Developer | JavaScipt • Python • Express • Flask • SQLAlchemy
 From fixing family tech issues to building apps that make a difference, my journey in software development has been shaped by a love for solving problems and creating elegant solutions. After starting in cybersecurity, I found my true passion in application development, where I get to turn ideas into tangible products. Proficient in Python and JavaScript, I'm excited to collaborate on innovative solutions that solve real-world problems. Let's build something awesome together!
 
 * 🌍  I'm based in Ohio
-* 🖥️  See my portfolio at [Here!](http://main.d3bk3pjkfs9rvk.amplifyapp.com/)
 * ✉️  You can contact me at [Mjlr0909@gmail.com](mailto:Mjlr0909@gmail.com)
 * 🧠  I'm learning Flutter
 
